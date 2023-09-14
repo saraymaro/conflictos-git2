@@ -12,3 +12,7 @@
 
 >> ![Alt text](img/3.png)
 
+>> Como vemos el conflicto se ha resuelto correctamente.
+
+>>![Alt text](img/4.png)
+
