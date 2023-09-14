@@ -10,3 +10,5 @@
 
 >>Ahora cambiaremos en remoto y volveremos a poner el texto original y en local cambiaremos las "i" por "!". Esta vez resolveremos el conflicto quedandonos con la versión en remoto.
 
+>> ![Alt text](img/3.png)
+
