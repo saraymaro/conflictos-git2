@@ -1,0 +1,3 @@
+👉Haz que se generen conflictos compáralos analiza que es lo que quieres. En muchas ocasiones necesitaras incluso sentarte con otro compañero para ver conflicto a conflicto que dejáis, etc. Finalmente, resuélvelos en algunas ocasiones cogiendo los cambios de tu repositorio local y en otras ocasiones los cambios de tu repositorio remoto.
+
+>Cambiamos primero algunas "a" de la primera linea de texto por "@" en el repositorio remoto y hacemos commit. Hacemos lo mismo en el local solo que cambiando todas las "e" por "€".
